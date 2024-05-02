@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "2a7744154a7cad22",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8a928cc2d8f390b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed87aba4ae718adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46761aa16e07c385",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff7258da04edab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e3264909fb1b8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "add6f006317a820d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a256636199ba1f1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ffd468c2f758a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "7998ac3709842fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dc525cd6a0aceb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90d210765d3aea43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df3eaab87f3f8a54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae2fbc4de295d329",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thinking/2024-05-01-헥사고날 아키텍처.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ed87aba4ae718adf",
+  "lastOpenFiles": [
+    "backend/spring_boot_jpa/2024-05-02-항목 25. 스프링 프로젝션을 통한 DTO 가져오기.md",
+    "2024-04-21-스프링 시큐리티.md",
+    "2024-04-15-첫배포.md",
+    "backend/spring",
+    "backend/spring_boot_jpa",
+    "backend",
+    "backend/spring_boot_jpa/2024-05-02-항목 53. 효율적으로 배치 삭제하는 방법(연관관계와 함께).md",
+    "backend/spring_boot_jpa/2024-04-24-항목 1. @OneToMany 연관관계 효과적으로 구성하는 방법.md"
+  ]
+}
