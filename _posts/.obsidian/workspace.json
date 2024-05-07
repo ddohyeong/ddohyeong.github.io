@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "file": "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "02bf88df4a724b83",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "file": "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thinking/2024-05-01-헥사고날 아키텍처.md",
+                "file": "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thinking/2024-05-01-헥사고날 아키텍처.md"
+                "file": "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md"
               }
             }
           }
@@ -148,13 +156,24 @@
   },
   "active": "ed87aba4ae718adf",
   "lastOpenFiles": [
+    "backend/spring_boot_jpa/2024-05-07-항목 60. 실제 필요시점까지 컨넥션 획득 지연방법.md",
     "backend/spring_boot_jpa/2024-05-02-항목 25. 스프링 프로젝션을 통한 DTO 가져오기.md",
+    "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md",
+    "backend/spring/security/2024-05-07-spring Security 구현.md",
+    "backend/spring/security/2024-05-07-Spring Security.md",
+    "backend/spring/security/2024-05-07-JWT란?.md",
+    "backend/spring_boot_jpa/2024-05-02-항목 53. 효율적으로 배치 삭제하는 방법(연관관계와 함께).md",
+    "backend/spring_boot_jpa/2024-04-24-항목 1. @OneToMany 연관관계 효과적으로 구성하는 방법.md",
+    "thinking/2024-04-24-MSA를 사용하는 이유는?.md",
+    "thinking/2024-05-01-헥사고날 아키텍처.md",
+    "Pasted image 20240507210754.png",
+    "Pasted image 20240507210510.png",
+    "Tags",
     "2024-04-21-스프링 시큐리티.md",
+    "backend/spring/security",
     "2024-04-15-첫배포.md",
     "backend/spring",
     "backend/spring_boot_jpa",
-    "backend",
-    "backend/spring_boot_jpa/2024-05-02-항목 53. 효율적으로 배치 삭제하는 방법(연관관계와 함께).md",
-    "backend/spring_boot_jpa/2024-04-24-항목 1. @OneToMany 연관관계 효과적으로 구성하는 방법.md"
+    "backend"
   ]
 }
