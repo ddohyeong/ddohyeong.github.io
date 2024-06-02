@@ -38,6 +38,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//Tags",
+    "//thinking",
+    "//backend",
     "/"
   ],
   "expandFolderOnClick": true,
