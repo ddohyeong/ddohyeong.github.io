@@ -38,10 +38,16 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
-    "//thinking",
+    "/",
+    "//backend/backend/spring",
+    "//backend/backend/spring/backend/spring/fcm",
+    "//backend/backend/spring/backend/spring/fcm",
     "//backend",
-    "/"
+    "//backend/backend/db",
+    "//backend/backend/kafca",
+    "//backend/backend/spring/backend/spring/security",
+    "//backend/backend/coding_test",
+    "//backend/backend/coding_test/backend/coding_test/string"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

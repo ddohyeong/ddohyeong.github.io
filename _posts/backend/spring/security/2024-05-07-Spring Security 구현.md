@@ -8,6 +8,7 @@ tags:
 toc: true
 toc_sticky: true
 date: 2024-05-07
+posting: true
 ---
 
 **ApplicatoinConfig 를 통한 빈 등록**
