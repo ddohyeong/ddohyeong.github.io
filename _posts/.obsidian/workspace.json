@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
+                "file": "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "브루트포스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
+                "file": "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
+                "file": "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md"
+                "file": "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md"
               }
             }
           }
@@ -157,6 +158,7 @@
   },
   "active": "6c6f01056751ecd3",
   "lastOpenFiles": [
+    "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
     "backend/coding_test/inflearn/sol/2024-08-28-boj_11053.md",
     "2024-10-01.md",
     "backend/coding_test/inflearn/sol/2024-08-27-boj_11048.md",
@@ -172,7 +174,6 @@
     "backend/coding_test/inflearn/sol/Untitled.md",
     "[.md",
     "backend/coding_test/inflearn/algorithm/2024-08-21-정렬 정리하기.md",
-    "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
     "backend/coding_test/inflearn/sol",
     "backend/coding_test/inflearn/algorithm",
     "backend/coding_test/inflearn",
