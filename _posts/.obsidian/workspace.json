@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a928cc2d8f390b",
+        "id": "95971214881dca90",
         "type": "tabs",
         "children": [
           {
-            "id": "ed87aba4ae718adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thinking/2024-04-24-MSA를 사용하는 이유는?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea278b7e44bd2bb3",
+            "id": "6c6f01056751ecd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking/2024-04-24-MSA를 사용하는 이유는?.md",
+                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thinking/2024-04-24-MSA를 사용하는 이유는?.md",
+                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thinking/2024-04-24-MSA를 사용하는 이유는?.md"
+                "file": "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md"
               }
             }
           }
@@ -158,52 +146,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "94e3264909fb1b8e",
+  "active": "6c6f01056751ecd3",
   "lastOpenFiles": [
-    "2019-08-08-text-and-typography.md",
-    "thinking/2024-04-24-MSA를 사용하는 이유는?.md",
-    "backend/spring/security/2024-05-07-Spring Security.md",
-    "2024-04-21-스프링 시큐리티.md",
-    "Pasted image 20240507210510.png",
-    "2024-04-15-첫배포.md",
-    "2019-08-11-customize-the-favicon.md",
-    "2019-08-08-write-a-new-post.md",
-    "thinking/2024-05-16-트랜잭션이란?.md",
-    "thinking/2024-05-12-WebFlux?.md",
-    "thinking/2024-05-01-헥사고날 아키텍처.md",
-    "backend/spring_boot_jpa/2024-05-16-항목 61. @Transactional(readOnly = true) 의 실제 작동 방식.md",
-    "backend/spring_boot_jpa/2024-05-07-항목 60. 실제 필요시점까지 컨넥션 획득 지연방법.md",
-    "backend/spring_boot_jpa/2024-05-02-항목 53. 효율적으로 배치 삭제하는 방법(연관관계와 함께).md",
-    "backend/spring_boot_jpa/2024-05-02-항목 25. 스프링 프로젝션을 통한 DTO 가져오기.md",
-    "backend/spring_boot_jpa/2024-04-24-항목 1. @OneToMany 연관관계 효과적으로 구성하는 방법.md",
-    "backend/spring/security/2024-05-07-\bSpring Security 구현.md",
-    "backend/spring/security/2024-05-07-JWT란?.md",
-    "backend/spring/security/2024-05-07-JWT 토큰 유효기간 만료 시 예외처리.md",
-    "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
+    "backend/coding_test/inflearn/sol/2024-08-28-boj_11053.md",
+    "2024-10-01.md",
+    "backend/coding_test/inflearn/sol/2024-08-27-boj_11048.md",
+    "backend/coding_test/inflearn/sol/2024-08-27-boj_1149.md",
+    "backend/coding_test/inflearn/algorithm/2024-08-27-DP(다이나믹 프로그래밍).md",
+    "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md",
+    "backend/coding_test/inflearn/algorithm/2024-08-21-정렬.md",
     "backend/kafca/2024-06-07-카프카 이해하기.md",
+    "backend/spring_boot_jpa/2024-05-16-항목 61. @Transactional(readOnly = true) 의 실제 작동 방식.md",
+    "backend/spring_boot_jpa/2024-04-24-항목 1. @OneToMany 연관관계 효과적으로 구성하는 방법.md",
+    "template/post_template.md",
+    "Vault.md",
+    "backend/coding_test/inflearn/sol/Untitled.md",
+    "[.md",
+    "backend/coding_test/inflearn/algorithm/2024-08-21-정렬 정리하기.md",
+    "backend/spring/fcm/2024-06-02-FCM 스프링 적용하기.md",
+    "backend/coding_test/inflearn/sol",
+    "backend/coding_test/inflearn/algorithm",
+    "backend/coding_test/inflearn",
+    "CS",
     "backend/db/2024-05-08-EDA.md",
     "backend/db/2024-05-07-mongodb 사용을 위한 스프링 설정 및 사용.md",
-    "backend/coding_test/string/.md",
+    "2024-08-21-test.md",
+    "2024-08-21-rwe.md",
+    "2024-08-21-.md",
+    "Untitled.md",
+    "2024-08-21-sadf.md",
+    "2024-08-21-null.md",
+    "Untitled 1.md",
+    ".md",
+    "2024-04-21.md",
+    "template",
+    "Tags",
+    "Pasted image 20240507210510.png",
     "backend/coding_test/string",
     "backend/coding_test",
-    "backend/kafca/무제 파일.md",
     "backend/kafca",
-    "backend/spring/fcm/무제 파일.md",
-    "backend/spring/fcm",
-    "Pasted image 20240507210754.png",
-    "backend/db",
-    "Tags",
-    "backend/spring/security",
-    "backend/spring",
-    "backend/spring_boot_jpa",
-    "backend"
+    "Pasted image 20240507210754.png"
   ]
 }

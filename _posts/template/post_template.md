@@ -4,12 +4,13 @@ let newFileName = `${tp.date.now("YYYY-MM-DD")}-${title}`;
 tp.file.rename(newFileName);
 -%>
 ---
-title:: <%- title %>
-categories::
-tags:: 
-toc:: false
-posting:: false
-toc_sticky:: false
-date:: <% tp.date.now() %>
+title: <%- title %>
+categories:
+  - template
+tags:
+toc: true
+toc_sticky: true
+date: <% tp.date.now() %>
+posting: false
 
 ---
