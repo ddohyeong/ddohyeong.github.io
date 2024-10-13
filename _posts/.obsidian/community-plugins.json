@@ -1,7 +1,8 @@
 [
   "make-md",
-  "obsidian-imgur-plugin",
-  "highlightr-plugin",
   "templater-obsidian",
-  "code-styler"
+  "obsidian-style-settings",
+  "highlightr-plugin",
+  "code-styler",
+  "obsidian-imgur-plugin"
 ]
