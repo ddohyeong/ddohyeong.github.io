@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thinking/2024-05-12-WebFlux?.md",
+                "file": "thinking/2024-10-19-멀티모듈 학습.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking/2024-05-12-WebFlux?.md",
+                "file": "thinking/2024-10-19-멀티모듈 학습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thinking/2024-05-12-WebFlux?.md",
+                "file": "thinking/2024-10-19-멀티모듈 학습.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thinking/2024-05-12-WebFlux?.md"
+                "file": "thinking/2024-10-19-멀티모듈 학습.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "98edc2ad13ded322",
   "lastOpenFiles": [
+    "thinking/2024-05-12-WebFlux?.md",
     "thinking/2024-10-19-멀티모듈 학습.md",
     "thinking/2024-05-16-트랜잭션이란?.md",
-    "thinking/2024-05-12-WebFlux?.md",
     "thinking/Untitled.md",
     "Untitled.md",
     "template/post_template.md",
