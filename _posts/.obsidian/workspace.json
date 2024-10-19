@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thinking/2024-05-16-트랜잭션이란?.md",
+                "file": "thinking/2024-05-12-WebFlux?.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1ffd468c2f758a01",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking/2024-05-16-트랜잭션이란?.md",
+                "file": "thinking/2024-05-12-WebFlux?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thinking/2024-05-16-트랜잭션이란?.md",
+                "file": "thinking/2024-05-12-WebFlux?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thinking/2024-05-16-트랜잭션이란?.md"
+                "file": "thinking/2024-05-12-WebFlux?.md"
               }
             }
           }
