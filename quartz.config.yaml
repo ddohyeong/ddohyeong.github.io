@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: goatcounter
+    websiteId: ddohyeong
   locale: en-US
   baseUrl: ddohyeong.github.io
   ignorePatterns:
