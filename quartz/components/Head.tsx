@@ -92,6 +92,11 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {/* Google Search Console 소유권 확인 */}
+        <meta
+          name="google-site-verification"
+          content="hLNz9351RsCYBoVnEZGYNFiGj-na4qaEvpYxDfcGN9c"
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
