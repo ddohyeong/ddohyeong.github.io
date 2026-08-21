@@ -1,0 +1,47 @@
+formulas:
+  분야: file.folder.replace("posts/", "")
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.inFolder("posts")
+        - file.name != "index"
+    order:
+      - title
+      - formula.분야
+      - date
+      - tags
+    sort:
+      - property: date
+        direction: DESC
+  - type: cards
+    name: 카드
+    filters:
+      and:
+        - file.inFolder("posts")
+        - file.name != "index"
+    groupBy:
+      property: formula.분야
+      direction: ASC
+    order:
+      - date
+    sort:
+      - property: date
+        direction: DESC
+  - type: list
+    name: 목록
+    filters:
+      and:
+        - file.inFolder("posts")
+        - file.name != "index"
+    groupBy:
+      property: formula.분야
+      direction: ASC
+    order:
+      - title
+      - 분야
+      - date
+    sort:
+      - property: date
+        direction: DESC

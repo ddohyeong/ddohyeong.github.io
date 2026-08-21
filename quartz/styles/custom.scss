@@ -1,3 +1,43 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// 그래프 연결선·구분선 — wikipedia 테마가 --lightgray 를 배경색과 같게 잡아서
+// 그래프의 링크 선과 표 테두리가 배경에 묻힘. 대비되는 값으로 덮음
+:root {
+  --lightgray: #d5d2cc;
+}
+:root[saved-theme="dark"] {
+  --lightgray: #45474b;
+}
+
+// 그래프 뷰 테두리 — 테마가 테두리 색을 투명으로 덮어써서 명시적으로 지정
+.graph-outer {
+  border: 1px solid var(--background-modifier-border, var(--gray));
+  border-radius: 8px;
+}
+
+// 탐색기 파일 제목 — 1줄로 자름
+.explorer a.nav-file-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+// 검색 패널 — 테마가 Quartz 기본 배경을 덮어써서 뒤 본문이 비쳐 보임.
+// 입력창과 결과 패널을 각각 독립된 카드로 띄우는 기본 구조를 복원
+// 뒤 본문은 블러만 (Quartz 기본). 어둡게 덮지 않음
+
+.search .search-space {
+  background: transparent;
+}
+
+.search .search-space > *:not(.ghost-text):not(.tag-suggestions) {
+  background: var(--light);
+  border-radius: 7px;
+  box-shadow:
+    0 14px 50px rgba(27, 33, 48, 0.12),
+    0 10px 30px rgba(27, 33, 48, 0.16);
+  margin-bottom: 1.2em; // 입력창과 결과 패널 사이 간격
+}
